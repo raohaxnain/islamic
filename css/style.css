@@ -1,0 +1,137 @@
+/* ========================== NAVBAR ================================ */
+.nav-item .nav-link {
+  font-family: 'Poppins', sans-serif !important;
+  font-weight: 700;
+  font-size: 0.9rem;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.8rem;
+}
+
+.bg {
+  background-color: #FEF2F2;
+}
+
+.pak-btn {
+  background-color: #FEADAD;
+  padding: 2px 14px;
+}
+
+.red-color {
+  color: #F51544;
+}
+
+h2,h4,h3,h5 {
+  font-family: 'Ranga', cursive;
+   font-weight: bold;
+}
+
+.font {
+  font-family: 'Ranchers', cursive;
+  word-spacing: 6px;
+}
+
+.learn-btn {
+  background-color: #F51544;
+  padding: 10px 18px;
+  border-radius: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.8rem;
+}
+.book-btn {
+  color: #F51544;
+  background-color: white;
+  padding: 10px 18px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.8rem;
+}
+/* ============================= FAMILY SECTION ================================= */
+#family  .card{
+ background-color: #FEADAD;
+ cursor: pointer;
+}
+#family .sub-btn{
+  background-color: #F51544;
+  color: white;
+}
+#family .card:hover .sub-btn{
+  background-color: white;
+  color: #F51544;
+}
+/* ===================================== UNIQUE SECTION ======================================== */
+#unique{
+  background-color: #FEF2F2;
+}
+#unique .learn-btn2{
+  background-color: #F51544;
+  padding: 10px 22px;
+  border-radius: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.9rem;
+}
+/* ===================================== TEAM SECTION ======================================== */
+#team .card-1{
+  background-color: #64BEEA;
+}
+#team .card-2{
+  background-color: #FEADAD;
+}
+#team .card-3{
+  background-color: #EAE901;
+}
+#team .card-4{
+  background-color: #FB99AC;
+}
+#team .card-5{
+  background-color: rgba(86, 115, 53, 0.45);
+}
+#team .card-6{
+  background-color: rgba(17, 167, 172, 0.29);
+}
+/* ===================================== PEOPLE SECTION ======================================== */
+#people .card{
+   border: 1px solid #F51544;
+   cursor: pointer;
+}
+#people .card:hover{
+  background-color: #F51544;
+  color: white;
+}
+#people .card:hover p{
+  background-color: #F51544;
+  color: white !important;
+}
+/* ===================================== CONTACT SECTION ======================================== */
+#contact .bg-color{
+  background-color: #FEADAD;
+  color: white;
+}
+#contact .btn-subscribe{
+  background-color: #F51544;
+  padding: 6px 15px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.9rem;
+}
+.input-group .rounded {
+    margin-left: -10px;
+}
+/* ===================================== FOOTER SECTION ======================================== */
+#foter{
+  background-color: #212121;
+  color: white;
+}
+#foter img{
+  width: 40px;
+}
+#foter h1{
+font-size: 2rem;
+}
+#foter .btn-inquiry{
+  background-color: transparent;
+  border: 1px solid #F51544;
+  padding: 8px 20px;
+}
